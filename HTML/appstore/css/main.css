@@ -1,0 +1,137 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v7_102 {
+  width: 430px;
+  height: 932px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_139 {
+  width: 430px;
+  height: 932px;
+  background: url("../images/v7_139.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_152 {
+  width: 118px;
+  height: 118px;
+  background: rgba(255,250,34,1);
+  opacity: 1;
+  position: absolute;
+  top: 221px;
+  left: 20px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v7_169 {
+  width: 503px;
+  height: 236px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 614px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_170 {
+  width: 85px;
+  height: 16px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 422px;
+  left: 345px;
+  overflow: hidden;
+}
+.v7_186 {
+  width: 107px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 230px;
+  left: 25px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v7_216 {
+  width: 430px;
+  height: 202px;
+  background: rgba(255,250,34,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_223 {
+  width: 78px;
+  height: 31px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 308px;
+  left: 151px;
+  overflow: hidden;
+}
+.v81_10531 {
+  width: 226px;
+  height: 229px;
+  background: url("../images/v81_10531.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 620px;
+  left: 35px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  overflow: hidden;
+}
+.v7_246 {
+  width: 134px;
+  height: 229px;
+  background: url("../images/v7_246.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 620px;
+  left: 296px;
+  border-top-left-radius: 24px;
+  overflow: hidden;
+}
+.v7_214 {
+  width: 262px;
+  height: 192px;
+  background: url("../images/v7_214.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 84px;
+  overflow: hidden;
+}
